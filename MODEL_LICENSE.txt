@@ -1,0 +1,9 @@
+Model: Qwen3-4B
+Quantization: Q4_K_M GGUF
+Model repository: https://huggingface.co/ggml-org/Qwen3-4B-GGUF
+Original model: https://huggingface.co/Qwen/Qwen3-4B
+License: Apache License 2.0
+
+The model weights are distributed separately from this source code and retain
+their original license and attribution. The packaged application includes the
+model weights so that no separate training file is needed at runtime.
